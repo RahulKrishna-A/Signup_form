@@ -140,13 +140,11 @@ button:hover{
 }
 
 .bottom{
-    display: flex;
-    justify-content: flex-end;
-    align-items: flex-end;
+
 
 
 }
-.bottom p,a{
+#about p,a{
     font-size: 10rem;
     padding: 10px;
     margin-top: 13vh;
